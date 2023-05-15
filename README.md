@@ -1,4 +1,4 @@
-# Robot-with-servo-motor
+# Robot-with-servo-motors
 The code is made to be used in the Arduino IDE. It is written for a robot with two stepper motors (JK28HS45-0674) and two drivers for each of them A4988.
 With the idea of a robot made to move around a field and perform various missions.
 
