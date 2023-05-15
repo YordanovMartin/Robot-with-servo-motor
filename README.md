@@ -25,3 +25,6 @@ which means that the robot travels this distance when taking 200 steps on the mo
     There are 2 fundamental methods of robot movement that are used in all other methods.
     They are a step forward and a step back. However, when we want the robot to turn in a certain direction,
     one motor must be set to drive forward and the other back, depending on the direction in which we want the robot to move.
+    
+    
+To see the video of the robot you have to download it!
